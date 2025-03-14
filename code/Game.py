@@ -7,8 +7,6 @@ from code.Const import WIN_WIDTH, WIN_HEIGTH, MENU_OP
 from code.Level import Level
 from code.Menu import Menu
 
-
-
 class Game:
     def __init__(self):
         pygame.init()
